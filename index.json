@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "make-a-test-hermetic-by-redirecting-its-writes",
+      "version": "1",
+      "files": ["make-a-test-hermetic-by-redirecting-its-writes.md"]
+    }
+  ]
+}
