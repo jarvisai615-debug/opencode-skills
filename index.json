@@ -3,7 +3,16 @@
     {
       "name": "make-a-test-hermetic-by-redirecting-its-writes",
       "version": "1",
-      "files": ["make-a-test-hermetic-by-redirecting-its-writes.md"]
+      "files": [
+        "make-a-test-hermetic-by-redirecting-its-writes.md"
+      ]
+    },
+    {
+      "name": "catalog-probe-20260924",
+      "version": "1",
+      "files": [
+        "catalog-probe-20260924.md"
+      ]
     }
   ]
 }
